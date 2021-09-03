@@ -1,5 +1,7 @@
 # Learning inherited widgets
-Workshop from Flutter team
+Workshop code from Flutter team.
+
+*\*The asset images don't work.*
 
 Links:
 - [Youtube tutorial](https://www.youtube.com/watch?v=LFcGPS6cGrY)
